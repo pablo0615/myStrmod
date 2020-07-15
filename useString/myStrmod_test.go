@@ -1,5 +1,5 @@
 // myStrmod_test.go - Test module 
-package myStrings
+package myStrmod
 import (
     "testing"
     v2 "github.com/pablo0615/myStrmod/v2"
