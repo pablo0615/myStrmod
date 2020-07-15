@@ -6,10 +6,10 @@ import (
 )
 
 func main() {
-    s1 := v1.Concat("alpha", "bet")
+    s1 := "alpha"
+    v1.Update(&s1, "bet")
     fmt.Println(s1)
-    s2 := v1.Concatb("fast", "car")
+    s2 := "book"
+    v1.Updateb(&s2, "deal")
     fmt.Println(s2)
-    s3 := v1.Rep("=", 0)    // test patch
-    fmt.Println(s3)
 }
