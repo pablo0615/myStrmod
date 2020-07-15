@@ -4,3 +4,5 @@ github.com/pablo0615/myStrmod v1.0.1 h1:BEDOf9svGCayhznnQyqqNIZxv3suJTa590tt9NvB
 github.com/pablo0615/myStrmod v1.0.1/go.mod h1:bxEgQu5ZFS6ZAoh3eZDs1M9XuR1IGIlnfBpGlcXSv/o=
 github.com/pablo0615/myStrmod v1.1.0 h1:A5W2GmcLGkv3+VDznhYHRc7238cUI+gCNXhH5ETkVJE=
 github.com/pablo0615/myStrmod v1.1.0/go.mod h1:bxEgQu5ZFS6ZAoh3eZDs1M9XuR1IGIlnfBpGlcXSv/o=
+github.com/pablo0615/myStrmod/v2 v2.0.0 h1:Kk2etR3knZ1Bw658sS1K1XvHzVP6FsCA/4/90JEmAIw=
+github.com/pablo0615/myStrmod/v2 v2.0.0/go.mod h1:ZVH3uY1zWIgdy7AFXNcRIbAugMAes2jrkIoT6YJwLD8=
