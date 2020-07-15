@@ -17,3 +17,12 @@ func Rep(ch string, num int) string {
     }
     return result
 }
+
+// New functions
+func Update(s1 *string, s2 string) {
+    *s1 += s2
+}
+
+func Updateb(s1 *string, s2 string) {
+    *s1 += " " + s2
+}
