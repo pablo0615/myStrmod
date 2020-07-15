@@ -10,6 +10,7 @@ func Concatb(s1, s2 string) string {
 }
 
 func Rep(ch string, num int) string {
+    if num <= 1 { return ch }     // patch
     var result string
     for i:= 0; i < num; i++ {
         result += ch
